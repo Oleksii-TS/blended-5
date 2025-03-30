@@ -128,4 +128,4 @@
 //   return a < b ? a : b;
 // }
 
-// console.log(min(10, "5"));
+// console.log(min(10, 15));
