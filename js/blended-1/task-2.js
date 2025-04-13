@@ -164,7 +164,7 @@
 
 //     return `Ваше замовлення на ${fruitName} вартує ${totalPrice}`;
 // }
-  
+
 // console.log(calcTotalPrice(fruits, "Яблуко")); 
 // console.log(calcTotalPrice(fruits, "Апельсин")); 
 // console.log(calcTotalPrice(fruits, "Банан")); 
